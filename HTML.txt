@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>
+Webpage
+</title>
+</head>
+<body>
+<h1> About myself! </h1> <br>
+Hey guys! My name is Kalp. I study in 8<sup>th</sup>B. <br>
+My hobby is to play cricket, football, do coding, and doing many interesting things. <br>
+Well, I also play keyboard. I have a youtube channel too! <a href="https://www.youtube.com/@KalpReepaUghreja"> Click here to view my channel! </a> <br>
+My favourite subjects:
+<ol type ='1'>
+<li>Science</li>
+<li>Maths</li>
+<li>Computer Science</li>
+<li>General Knowledge</li>
+<li>English</li>
+<li>Social Studies</li>
+<li>Gujarati</li>
+<li>Hindi</li>
+</ol>
+<script>
+document.write("Sum of 57+49: ",57+49,"<br>")
+document.write("793 subtracted from 897: ",897-793,"<br>")
+document.write("26 multiplied by 35: ",35*26,"<br>")
+document.write("78 divided by 8 in decimal form: ",78/8,"<br>")
+document.write("Remainder when 57 is divided by 7: ",57%7,"<br>")
+document.write("56 to the power 3: ",56**3,"<br>")
+</script>
+</body>

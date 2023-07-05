@@ -1,0 +1,28 @@
+<html>
+<head>
+  <style>
+    h3 {text-align : center}
+  </style>
+<title>AIRPLANE</title>
+</head>
+<body>
+  <h3>New Flights</h3>
+  It is being informed that the following flights are flying from Rajkot. Please make your bookings accordingly. <br><br>
+1. Flight number - <b>1177</b> <br>
+  Flight Company: IndiGo <br>
+  From: <u><i>Rajkot</i></u> <br>
+  To:<u><i>Banglore</i></u><br><br>
+  2. Flight number - <b>1836</b> <br>
+  Flight Company: Air India <br>
+  From: <u><i>Rajkot</i></u> <br>
+  To:<u><i>Udaipur</i></u><br><br>
+  3. Flight number - <b>7306</b><br>
+  Flight Company: Air India <br>
+  From: <u><i>Rajkot</i></u> <br>
+  To:<u><i>Banglore</i></u><br><br>
+  4. Flight number - <b>0662</b> <br>
+  Flight Company: IndiGo <br>
+  From: <u><i>Rajkot</i></u> <br>
+  To:<u><i>Indore</i></u>  
+</body>
+</html>
